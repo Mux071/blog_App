@@ -122,17 +122,17 @@ const ScrollableIcon: React.FC = () => {
                   >
                     <ul className="w-full text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg">
                       <li className="w-full px-4 py-2 border-b border-gray-200 rounded-t-lg">
-                        Name: shahbaz Ahmed
+                        Name: Adeeb jamil
                       </li>
                       <li className="w-full px-4 py-2 border-b border-gray-200">
-                        Mobile: +91 9264266890
+                        Mobile: +91 7033772680
                       </li>
                       <li className="w-full px-4 py-2 border-b border-gray-200">
-                        Email: shahbaz126ahmed@gmail.com
+                        Email: adeebjamil6459@gmail.com
                       </li>
                       <li className="w-full px-4 py-2 border-b border-gray-200 underline">
                         <a
-                          href=""
+                          href="https://www.linkedin.com/in/adeeb-jamil-6540b6215/"
                           target="_blank"
                         >
                           LinkedIn
@@ -140,18 +140,10 @@ const ScrollableIcon: React.FC = () => {
                       </li>
                       <li className="w-full px-4 py-2 border-b border-gray-200 underline">
                         <a
-                          href=""
+                          href="https://github.com/Mux071/blog_App"
                           target="_blank"
                         >
                           Github
-                        </a>
-                      </li>
-                      <li className="w-full px-4 py-2 border-b border-gray-200 underline">
-                        <a
-                          href=""
-                          target="_blank"
-                        >
-                          Portfolio
                         </a>
                       </li>
                     </ul>
